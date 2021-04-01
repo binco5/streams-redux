@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Stream mit ID",
+      "description": "Meine ID auch da?",
+      "userId": "117735237035359658189",
+      "id": 1
+    },
+    {
+      "title": "Nice Stream #100",
+      "description": "#100 TOP EU GAMEPLAY ",
+      "userId": "117735237035359658189",
+      "id": 2
+    }
+  ]
+}

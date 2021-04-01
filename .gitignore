@@ -1,0 +1,7 @@
+# streams-redux
+.idea
+client/node_modules
+client/.idea
+rtmpserver/node_modules
+server/node_modules
+server/.idea
